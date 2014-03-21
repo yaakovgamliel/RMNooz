@@ -1,0 +1,4 @@
+# Logfile created on 2014-03-21 12:02:02 +0200 by logger.rb/v1.2.7
+I, [2014-03-21T12:02:02.417298 #967]  INFO -- : 0:  rake (10.1.1) from /Users/yaakov/.rvm/gems/ruby-head@motion/specifications/rake-10.1.1.gemspec
+I, [2014-03-21T12:02:05.751163 #967]  INFO -- : 0:  bubble-wrap (1.5.0) from /Users/yaakov/.rvm/gems/ruby-head@motion/specifications/bubble-wrap-1.5.0.gemspec
+I, [2014-03-21T12:02:05.751468 #967]  INFO -- : 0:  bundler (1.5.1) from /Users/yaakov/.rvm/gems/ruby-head@global/specifications/bundler-1.5.1.gemspec
